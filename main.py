@@ -1,12 +1,11 @@
 #!/usr/bin/python3
 
 def main(msg):
-<<<<<<< HEAD
-    // add something new
-    // Adding the second comment to this file
-=======
-	//print a message
->>>>>>> refs/remotes/origin/master
+    //no longer need commits
     print(msg)
+
+def secondary():
+print("new function")
+
 
 main("Hello World")
