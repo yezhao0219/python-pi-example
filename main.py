@@ -2,7 +2,7 @@
 
 def main(msg):
 <<<<<<< HEAD
-    // add
+    // add something new
     // Adding the second comment to this file
 =======
 	//print a message
