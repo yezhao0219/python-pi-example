@@ -1,10 +1,10 @@
 #!/bin/bash
 
-if [ "$EUID" -ne 0 ]
-  	then echo "Please run this as root"
-  	sleep 10
-  	exit
-fi
+#if [ "$EUID" -ne 0 ]
+  #	then echo "Please run this as root"
+  #	sleep 10
+  #	exit
+#fi
   
 
 apt-get update -y
